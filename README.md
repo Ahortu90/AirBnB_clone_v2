@@ -28,7 +28,7 @@ deploy in the coming month:
 
 ---
 
-## NOTE TO 2019 LYFT SOFTWARE ENGINEERING APPRENTICESHIP RECRUITER
+## NOTE TO 2023 SOFTWARE ENGINEERING APPRENTICESHIP RECRUITER
 
 This web app has been the capstone project of my full-stack education at
 Alx School and I want to show it off as a demonstration of all the
