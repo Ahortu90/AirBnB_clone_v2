@@ -2,7 +2,7 @@
 <p align="center">An AirBnB clone.</p>
 
 <p align="center">
-  <img src="https://github.com/bdbaraban/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
+  <img src="https://github.com/Ahortu90/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
 	    alt="HolbertonBnB logo">
 </p>
 
@@ -366,4 +366,4 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 * **Ahortu Derrick** <[Ahortu90](https://github.com/Ahortu90)>
-* **Ahortu Victor Duncan** <[your name](https://github.com/your_name)>
+* **Ahortu Victor Duncan** <[victor-duncan](https://github.com/victor-duncan)>
